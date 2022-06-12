@@ -87,8 +87,7 @@ function init(){
                 
             }
             
-            
-            
+                
         }
     };
     snake.createSnake();
